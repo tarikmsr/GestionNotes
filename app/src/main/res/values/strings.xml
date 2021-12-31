@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GestionNotes</string>
+    <string-array name="modules">
+         <item>Cloud C</item>
+         <item>Python</item>
+         <item>Security</item>
+         <item>JAVA OOP</item>
+         <item>SHELL Sc</item>
+         <item>Statistic</item>
+        </string-array>
+</resources>

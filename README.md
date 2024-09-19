@@ -1,4 +1,4 @@
-# Application de la gestion des notes
+# Application de gestion des notes
 
 C'est une application simple qui gere les notes et qui est programée par la langague JAVA en utulisant Android Studio, qui vous laisse de saisir les notes de chaque module, et elle calcule la moyenne a la fin.
 
